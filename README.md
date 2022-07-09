@@ -7,4 +7,4 @@ Developed using JavaFX
 
 PlatForm Used :- Linux (Ubuntu 20.04)
 
-JDK details :- openJDK 11
+JDK details :- openJDK 11.
